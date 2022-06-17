@@ -1,5 +1,25 @@
 ## Welcome to GitHub Pages
-I am Fanqi (Franky) Meng.
+
+- I am Fanqi (Franky) Meng. I am broadly interested in mathematics, statistics and machine learning, programming and quantitative trading. My linkedin profile is [Link](https://www.linkedin.com/in/fanqi-franky-meng-a18623a4/)
+
+## Mathematics 
+
+
+## Statistics and Machine Learning
+- Elementary Statistics 
+
+- Intermediate Statistics 
+
+## Computer Science and Programming
+- C++
+
+- Python
+
+- SQL
+
+- Linux 
+## Quantitative Finance and Trading
+
 
 You can use the [editor on GitHub](https://github.com/dreamboyMeng/dreamboyMeng.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
