@@ -13,7 +13,10 @@ I am Fanqi (Franky) Meng. I am broadly interested in mathematics, statistics and
 
 ## Computer Science and Programming
 - C++
+
+
 [USACO](https://usaco.guide)
+
 - Python
 - SQL
 - Linux 
