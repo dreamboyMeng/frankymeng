@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-- I am Fanqi (Franky) Meng. I am broadly interested in mathematics, statistics and machine learning, programming and quantitative trading. My linkedin profile is [here](https://www.linkedin.com/in/fanqi-franky-meng-a18623a4/).
+I am Fanqi (Franky) Meng. I am broadly interested in mathematics, statistics and machine learning, programming and quantitative trading. My linkedin profile is [here](https://www.linkedin.com/in/fanqi-franky-meng-a18623a4/).
 
 ## Mathematics 
 - Calculus
@@ -10,17 +8,14 @@
 
 ## Statistics and Machine Learning
 - Elementary Statistics 
-* Linear Regression
-
+- Linear Regression
 - Intermediate Statistics 
 
 ## Computer Science and Programming
 - C++
-
+[USACO](https://usaco.guide)
 - Python
-
 - SQL
-
 - Linux 
 
 ## Quantitative Finance and Trading
